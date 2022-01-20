@@ -1,0 +1,9 @@
+*{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.todoList{
+    padding: 10px;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
